@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/EguchiRyo/rails_docker/issues"
   },
-  "homepage": "https://github.com/EguchiRyo/rails_docker#readme"
+  "homepage": "https://github.com/EguchiRyo/rails_docker#readme",
+  "dependencies": {
+    "npm-check-updates": "^2.14.2"
+  }
 }
